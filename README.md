@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/08a55906-3e3d-47d6-b093-22f30fd71a8b)# RAG Chatbot For Vietnamese Students
+# RAG Chatbot For Vietnamese Students
 
 [![Static Badge](https://img.shields.io/badge/Meta-Llama-blue?logo=Meta&logoColor=blue&labelColor=white)](https://llama.meta.com/docs/overview/)
 [![Static Badge](https://img.shields.io/badge/Langchain-RetrievalQA%20%26%20LLMChain-green?logo=Langchain&logoColor=grey&labelColor=white)](https://js.langchain.com/v0.1/docs/modules/chains/popular/vector_db_qa/)
@@ -117,6 +117,14 @@ Session name:
 
 ![Session Name](./example_img/session_name.png)
 
+# References
 
+Meta AI. (n.d.). LLaMA: Open Foundation and Research. Meta AI. Retrieved July 18, 2024, from https://llama.meta.com/docs/overview/
+
+Hugging Face. (n.d.). vilm/vinallama-7b-chat-GGUF. Hugging Face. Retrieved July 20, 2024, from https://huggingface.co/vilm/vinallama-7b-chat-GGUF
+
+LangChain. (n.d.). Vector DB QA. LangChain. Retrieved July 21, 2024, from https://js.langchain.com/v0.1/docs/modules/chains/popular/vector_db_qa/
+
+Streamlit. (n.d.). Streamlit documentation. Streamlit. Retrieved July 21, 2024, from https://docs.streamlit.io/
 
 
