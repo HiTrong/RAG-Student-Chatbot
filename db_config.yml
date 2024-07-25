@@ -1,0 +1,11 @@
+database_path: "data_store/vector_db/faiss"
+
+database_config:
+  chunk_size: 100
+  separator: "\n"
+  chunk_overlap: 20
+
+pdf_path: "data_store/pdf"
+
+word_path: "data_store/word"
+

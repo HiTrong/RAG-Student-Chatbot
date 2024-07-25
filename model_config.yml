@@ -1,0 +1,8 @@
+chatbot_path:
+  Q5bit: "models/Vinallama/vinallama-7b-chat_q5_0.gguf"
+
+chatbot_type: "llama"
+
+chatbot_config: {'max_new_tokens': 2048,'temperature': 0.01,'context_length': 2048, 'gpu_layers': -1}
+
+embedding_path: "sentence-transformers/all-MiniLM-L6-v2"
